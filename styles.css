@@ -1,0 +1,287 @@
+
+body{
+  background-color: #E8F6EF;
+
+}
+.top{
+  background-color: #D9ECF2;
+  text-align: center;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+
+
+body{
+  margin: 0;
+}
+
+.none{
+  text-decoration: none;
+
+}
+
+.heading:hover{
+  color: #BF1363;
+  cursor: pointer;
+}
+
+.profile{
+
+  margin:50px auto 50px auto;
+  width: 70%;
+
+}
+
+
+h2{
+
+  text-align: center;
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 30px;
+  color: #152D35;
+  font-weight: bolder;
+  margin-top: 0;
+
+
+  color:#11052C;
+}
+
+.bot{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 17px;
+  font-weight: bold;
+  color: #152D35;
+}
+.link{
+  display: inline-block;
+
+
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: bolder;
+  color: #185ADB;
+  margin:50px;
+  margin-bottom: 30px;
+
+
+}
+
+.sub:hover{
+  font-style: italic;
+}
+
+.link:hover{
+  color: #F6F5F5;
+}
+
+.heading{
+  display: inline-block;
+
+  font-family: 'Sacramento', cursive;
+
+  font-size: 5em;
+  color:#003638;
+  font-weight: bolder;
+  margin-top:30px;
+  margin-bottom: 20px;
+
+
+}
+
+span{
+  display: inline-block;
+  margin-bottom: 50px;
+  font-size: 15px;
+
+  color: white;
+  font-family: 'Ubuntu Mono', monospace;
+
+
+}
+
+.skillrow{
+
+
+
+
+  width: 70%;
+  height: 200px;
+  margin: 120px auto;
+
+
+}
+.data{
+
+  height: 200px;
+  display: flex;
+
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+
+
+}
+
+
+
+hr{
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  border-style: none;
+border-top-style: dotted;
+width: 10%;
+border-width: 5px;
+border-color: #77ACF1;
+
+background-color: 	transparent;
+opacity: 1;
+
+
+
+}
+.info{
+
+
+
+
+  line-height: 2;
+  margin-bottom: 0;
+}
+
+.infop{
+  line-height: 2;
+  font-family: 'Lora', serif;
+  font-weight: bold;
+  font-size: 17px;
+  color: #152D35;
+  width: 50%;
+  margin: auto;
+  letter-spacing: 2px;
+}
+
+.coding{
+  float: left;
+  margin-right: 50px;
+}
+
+.formla{
+  display: inline-block;
+  margin: 40px;
+  margin-top: 20px;
+}
+
+button{
+  padding: 10px;
+  border-radius: 10px;
+  font-family: 'Ubuntu Mono', monospace;
+  font-weight: bolder;
+  color: #FFF3E6;
+  background-color: #51C2D5;
+  font-size: 20px;
+
+}
+
+.last{
+  text-align: center;
+  background-color: #66BFBF;
+  margin-bottom: 7px;
+  border-radius: 10px;
+}
+
+button:hover{
+  cursor: pointer;
+  background-color: #F1F1F1;
+
+  color: black;
+}
+
+
+.eat{
+  float: left;
+  margin-right: 50px;
+}
+
+.sleep{
+  float: right;
+  margin-left: 50px;
+
+}
+
+
+
+.skillheading{
+  font-family: 'Niconne', cursive;
+  font-weight: bolder;
+  font-size: 4em;
+  color: #630A10;
+}
+
+
+
+hr:hover{
+  border-color: #FB9300;
+}
+
+.info{
+  font-family: 'Lora', serif;
+  font-weight: bold;
+  font-size: 17px;
+
+  letter-spacing: 2px;
+}
+
+.sub{
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 30px;
+  color: #003638;
+  margin-top: 0px;
+  margin-bottom: 70px;
+
+}
+
+.middle{
+  text-align: center;
+
+
+
+}
+
+
+
+.bottom{
+
+  text-align: center;
+  margin: auto;
+  width: 70%;
+
+
+
+}
+
+.dp{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.upcloud{
+  position: absolute;
+  right: 350px;
+  top: 50px;
+
+
+}
+
+.downcloud{
+  position: absolute;
+  bottom: 280px;
+  left:350px;
+}

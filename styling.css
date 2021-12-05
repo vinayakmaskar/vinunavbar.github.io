@@ -1,0 +1,62 @@
+body{
+  background-color:#E7EFF3 ;
+  text-align: center;
+  height: 100%;
+}
+
+.fileee{
+  position: relative;
+  left: 30px;
+}
+
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+
+  border-color: #CE2E6C;
+  border-width: 5px;
+
+}
+
+hr:hover{
+
+  cursor: pointer;
+}
+
+a:hover{
+  color: #BE3030;
+}
+
+h3 , h2{
+
+  color: #00303F;
+  font-family: cursive;
+  font-weight: bolder;
+  font-style: italic;
+
+}
+
+h1{
+  font-family: 'Ubuntu Mono', monospace;
+  font-weight: bolder;
+  color: #00303F;
+
+}
+
+h1:hover{
+  color: #F73859;
+  cursor: pointer;
+}
+
+p{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bolder;
+
+}
+
+
+img{
+
+
+}
